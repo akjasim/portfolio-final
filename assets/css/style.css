@@ -5,12 +5,12 @@
 }
 
 #home {
-  background-image: url("../images/bghome.jpg");
+  background-image: url("../images/jasi_copy.jpg");
   background-size: cover;
   height: 100vh;
   color: white;
   text-align: center;
-  padding: 200px 50px 0 50px;
+  padding: 280px 50px 0 50px;
 }
 
 #home h1 {
@@ -35,7 +35,6 @@
 #about {
   text-align: center;
   background-color: #aa3eb8;
-  padding: 50px;
 }
 
 .about-header h1,
@@ -62,7 +61,6 @@
 
 #services {
   background-color: #6b3eb3;
-  padding: 50px;
   text-align: center;
 }
 
@@ -90,7 +88,6 @@
 #contact {
   text-align: center;
   background-color: #aa3eb8;
-  padding: 50px;
 }
 
 .contact-caption h2 {
@@ -127,7 +124,7 @@ footer {
 
 @media (max-width: 768px) {
   #home {
-    padding: 130px 10px 0 10px;
+    padding: 250px 10px 0 10px;
   }
 
   .about-caption {
